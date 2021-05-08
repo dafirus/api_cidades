@@ -1,5 +1,5 @@
 # API Cities
-### Execício desenvolvido durante o Bootcamp Quality Assurance da everis, em parceria com a Digital Innovation One
+### Exercício desenvolvido durante o Bootcamp Quality Assurance da everis, em parceria com a Digital Innovation One
 
 ## Dependências do projeto
 
